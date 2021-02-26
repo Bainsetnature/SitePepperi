@@ -21,9 +21,6 @@ var blocks_config = {
             field: "SubTotal",
             measure_unit: "\u20ac"
         }, {
-            text: "Total Quantit\u00e9",
-            field: "QuantitiesTotal"
-        }, {
             text: "Total HT",
             field: "GrandTotal",
             measure_unit: "\u20ac"
@@ -46,7 +43,7 @@ var Promotions = [
         title: "MOANA",
         buttonText: "Cliquez ici",
         link: 'Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%225332e389-e1f9-421e-bc33-689bdfbca16c%5C%22,%5C%22Parent%5C%22:%5C%22%7B%5C%5C%5C%22JsonFilter%5C%5C%5C%22:%5C%5C%5C%2299207e51-47b5-4f30-8271-c364a6882050%5C%5C%5C%22%7D%5C%22%7D%22&TopPadding=0&SearchAll=false',
-        image: 'https://bainsetnature.github.io/SitePepperi/MOANA.jpg'
+        image: 'https://bainsetnature.github.io/SitePepperi/COFFRET MOANA.png'
     }
     ]
 var Promotions2 = [
