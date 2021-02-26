@@ -84,7 +84,7 @@ var CaruselData = [
     {
 
         title: '',
-        imageURL: 'https://bainsetnature.github.io/SitePepperi/2.BANNIÈRE.png',
+        imageURL: 'https://bainsetnature.github.io/SitePepperi/2.BANNIERE.png',
         description: '',
         buttonText: '',
         time: 5000,
