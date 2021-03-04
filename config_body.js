@@ -59,7 +59,7 @@ var Promotions3 = [
         title: "EAUX DE PARFUM",
         buttonText: "Cliquez ici",
         link: 'Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%225332e389-e1f9-421e-bc33-689bdfbca16c%5C%22,%5C%22Parent%5C%22:%5C%22%7B%5C%5C%5C%22JsonFilter%5C%5C%5C%22:%5C%5C%5C%2209fd1d0b-e9f8-414f-9c10-e3e4b72049ee%5C%5C%5C%22%7D%5C%22%7D%22&TopPadding=0&SearchAll=false',
-        image: 'https://bainsetnature.github.io/SitePepperi/Présentoir eau parfums.png'
+        image: 'https://bainsetnature.github.io/SitePepperi/Présentoir eau parfums.png'
     }
     ]
 var Promotions4 = [
