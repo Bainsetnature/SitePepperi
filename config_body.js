@@ -66,7 +66,7 @@ var Promotions4 = [
     {
         title: "CR\u00c8MES MAINS",
         buttonText: "Cliquez ici",
-        link: 'Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%2202837f2a-b9c3-4bbd-a455-5c090d211c89%5C%22,%5C%22Parent%5C%22:%5C%22%7B%5C%5C%5C%22JsonFilter%5C%5C%5C%22:%5C%5C%5C%2299207e51-47b5-4f30-8271-c364a6882050%5C%5C%5C%22%7D%5C%22%7D%22&TopPadding=0&SearchAll=false',
+        link: 'Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab="%7B%5C"JsonFilter%5C":%5C"b655d192-5304-42d8-b8e6-88b49872ecab%5C",%5C"Parent%5C":%5C"%7B%5C%5C%5C"JsonFilter%5C%5C%5C":%5C%5C%5C"bb92069c-0ca0-4208-b397-d8e02bbce6d1%5C%5C%5C"%7D%5C"%7D"&TopPadding=0&SearchAll=false',
         image: 'https://bainsetnature.github.io/SitePepperi/P1140485-LIGHT.png'
     }
 ]
