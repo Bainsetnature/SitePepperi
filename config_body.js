@@ -36,7 +36,7 @@ var Promotions = [
     {
         title: "MOANA",
         buttonText: "Cliquez ici",
-        link: 'Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%225332e389-e1f9-421e-bc33-689bdfbca16c%5C%22,%5C%22Parent%5C%22:%5C%22%7B%5C%5C%5C%22JsonFilter%5C%5C%5C%22:%5C%5C%5C%2299207e51-47b5-4f30-8271-c364a6882050%5C%5C%5C%22%7D%5C%22%7D%22&TopPadding=0&SearchAll=false',
+        link: '',
         image: 'https://bainsetnature.github.io/SitePepperi/COFFRET MOANA.png'
     }
     ]
@@ -44,7 +44,7 @@ var Promotions2 = [
     {
         title: "DELIRIUM FLORAL",
         buttonText: "Cliquez ici",
-        link: 'Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%225332e389-e1f9-421e-bc33-689bdfbca16c%5C%22,%5C%22Parent%5C%22:%5C%22%7B%5C%5C%5C%22JsonFilter%5C%5C%5C%22:%5C%5C%5C%221fed1213-9371-4267-8e07-c83c56b057e1%5C%5C%5C%22%7D%5C%22%7D%22&TopPadding=0&SearchAll=false',
+        link: '',
         image: 'https://bainsetnature.github.io/SitePepperi/delirium floral home.png'
     }
     ]
@@ -52,7 +52,7 @@ var Promotions3 = [
     {
         title: "EAUX DE PARFUM",
         buttonText: "Cliquez ici",
-        link: 'Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%225332e389-e1f9-421e-bc33-689bdfbca16c%5C%22,%5C%22Parent%5C%22:%5C%22%7B%5C%5C%5C%22JsonFilter%5C%5C%5C%22:%5C%5C%5C%2209fd1d0b-e9f8-414f-9c10-e3e4b72049ee%5C%5C%5C%22%7D%5C%22%7D%22&TopPadding=0&SearchAll=false',
+        link: '',
         image: 'https://bainsetnature.github.io/SitePepperi/Présentoir eau parfums.png'
     }
     ]
@@ -60,7 +60,7 @@ var Promotions4 = [
     {
         title: "CR\u00c8MES MAINS",
         buttonText: "Cliquez ici",
-        link: 'Transactions/scope_items/{{UUID}}?SearchString=&CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%225332e389-e1f9-421e-bc33-689bdfbca16c%5C%22,%5C%22Parent%5C%22:%5C%22%7B%5C%5C%5C%22JsonFilter%5C%5C%5C%22:%5C%5C%5C%227870e2fc-164b-4310-9d8f-69e9ba8b8fc1%5C%5C%5C%22%7D%5C%22%7D%22&TopPadding=0&SearchAll=false',
+        link: '',
         image: 'https://bainsetnature.github.io/SitePepperi/P1140485-LIGHT.png'
     }
 ]
@@ -73,7 +73,7 @@ var CaruselData = [
         description: '',
         buttonText: '',
         time: 5000,
-        deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%22defaef5e-e6d3-4b1e-b53c-2fa41f700168%5C%22%7D%22&ViewType=%7B%22Key%22:%22OrderCenterView3%22,%22Value%22:%22Medium%22%7D&TopPadding=0&SearchAll=false'
+        deepLink: ''
     },
     {
 
@@ -82,7 +82,7 @@ var CaruselData = [
         description: '',
         buttonText: '',
         time: 5000,
-        deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%22defaef5e-e6d3-4b1e-b53c-2fa41f700168%5C%22%7D%22&ViewType=%7B%22Key%22:%22OrderCenterView3%22,%22Value%22:%22Medium%22%7D&TopPadding=0&SearchAll=false'
+        deepLink: ''
     },
     {
 
@@ -91,7 +91,7 @@ var CaruselData = [
         description: '',
         buttonText: '',
         time: 5000,
-        deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%22defaef5e-e6d3-4b1e-b53c-2fa41f700168%5C%22%7D%22&ViewType=%7B%22Key%22:%22OrderCenterView3%22,%22Value%22:%22Medium%22%7D&TopPadding=0&SearchAll=false'
+        deepLink: ''
     },
     {
 
@@ -100,7 +100,7 @@ var CaruselData = [
         description: '',
         buttonText: '',
         time: 5000,
-        deepLink: '/Transactions/scope_items/{{UUID}}?CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%22defaef5e-e6d3-4b1e-b53c-2fa41f700168%5C%22%7D%22&ViewType=%7B%22Key%22:%22OrderCenterView3%22,%22Value%22:%22Medium%22%7D&TopPadding=0&SearchAll=false'
+        deepLink: ''
     },
 ];
 customHomepage.test = "test"
