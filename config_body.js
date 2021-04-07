@@ -34,7 +34,7 @@ var Brands = [
 //Promotions block
 var Promotions = [
     {
-        title: "MOANA",
+        title: "Soins Corps",
         buttonText: "Cliquez ici",
         link: '',
         image: 'https://bainsetnature.github.io/SitePepperi/COFFRET MOANA.png'
@@ -42,7 +42,7 @@ var Promotions = [
     ]
 var Promotions2 = [
     {
-        title: "DELIRIUM FLORAL",
+        title: "Parfums Maison",
         buttonText: "Cliquez ici",
         link: '',
         image: 'https://bainsetnature.github.io/SitePepperi/delirium floral home.png'
@@ -50,7 +50,7 @@ var Promotions2 = [
     ]
 var Promotions3 = [    
     {
-        title: "EAUX DE PARFUM",
+        title: "Les Nomades",
         buttonText: "Cliquez ici",
         link: '',
         image: 'https://bainsetnature.github.io/SitePepperi/Présentoir eau parfums.png'
@@ -58,7 +58,7 @@ var Promotions3 = [
     ]
 var Promotions4 = [
     {
-        title: "CR\u00c8MES MAINS",
+        title: "Offres Cadeaux",
         buttonText: "Cliquez ici",
         link: '',
         image: 'https://bainsetnature.github.io/SitePepperi/P1140485-LIGHT.png'
