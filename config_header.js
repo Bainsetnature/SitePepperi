@@ -10,7 +10,7 @@ const RightMenu = [
     {
         catalog: "B2B",
         transaction: "Commande B2B",
-        title: "Commande",
+        title: "Passer une commande",
         action: "createNewTransaction",
         deepLink: '/Transactions/scope_items/{{UUID}}'
     },
