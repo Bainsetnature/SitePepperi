@@ -6,6 +6,12 @@ var blocks_config = {
         field: "",
         svg: "https://storage.pepperi.com/General/Icons/truck.svg"
     },
+    'account_balance': {
+        text: "Point",
+        field: "TSACreditLimit",
+        measure_unit: "Points",
+        svg:"https://storage.pepperi.com/General/Icons/balance.svg"
+    },
     'active-order':
     {
         name: "Commande en cours",
