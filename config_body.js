@@ -3,7 +3,7 @@ var Catalog = 'B2B'
 var blocks_config = {
     'account_balance': {
         text: "Point",
-        field: "",
+        field: "TSAPointFidCompte",
         measure_unit: "Points",
         svg:"https://storage.pepperi.com/General/Icons/balance.svg"
     },
