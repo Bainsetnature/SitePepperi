@@ -6,11 +6,6 @@ var blocks_config = {
         field: "",
         svg: "https://storage.pepperi.com/General/Icons/truck.svg"
     },
-    'free_point': {
-        text: "Points",
-        field: "",
-        svg: "https://storage.pepperi.com/General/Icons/balance.svg"
-    },
     'account_balance': {
         text: "Points",
         field: "TSAPointFidCompte",
