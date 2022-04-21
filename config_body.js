@@ -8,7 +8,7 @@ var blocks_config = {
     },
     'free_point': {
         text: "Points",
-        field: "TSAPointFidCompte",
+        field: "",
         svg: "https://storage.pepperi.com/General/Icons/balance.svg"
     },
     'account_balance': {
