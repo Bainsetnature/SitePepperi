@@ -1,16 +1,16 @@
 var Transaction = 'Commande B2B';
 var Catalog = 'B2B'
 var blocks_config = {
+    'free_shipping': {
+        text: "Frais de port offert \u00e0 partir de 350\u20ac HT d'achat",
+        field: "",
+        svg: "https://storage.pepperi.com/General/Icons/truck.svg"
+    },
     'account_balance': {
         text: "Point",
         field: "TSAPointFidCompte",
         measure_unit: "Points",
         svg:"https://storage.pepperi.com/General/Icons/balance.svg"
-    },
-    'free_shipping': {
-        text: "Frais de port offert \u00e0 partir de 350\u20ac HT d'achat",
-        field: "",
-        svg: "https://storage.pepperi.com/General/Icons/truck.svg"
     },
     'active-order':
     {
