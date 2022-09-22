@@ -1,6 +1,6 @@
 var Transaction = 'Commande B2B';
 var Catalog = 'B2B'
-const logo = 'https://baijashop.com/img/baija-shop-logo-1549555162.jpg'
+const logo = 'https://bainsetnature.github.io/SitePepperi/LOGO%20BAIJA%20NOIR%20(1).png'
 const LeftMenu = [
 
 
