@@ -14,13 +14,13 @@ const RightMenu = [
         action: "createNewTransaction",
         deepLink: '/Transactions/scope_items/{{UUID}}'
     },
-    {
+    /*{
         catalog: "Point Fidelite",
         transaction: "Commande Fidelite",
         title: "Commande Produits fidélité",
         action: "createNewTransaction",
         deepLink: '/Transactions/scope_items/{{UUID}}'
-    },
+    },*/
     {
         title: "Historique",
         action: "navigation",
