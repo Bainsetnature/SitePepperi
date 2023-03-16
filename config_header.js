@@ -21,6 +21,12 @@ const RightMenu = [
         action: "createNewTransaction",
         deepLink: '/Transactions/scope_items/{{UUID}}'
     },
+     {
+        activity: "CONDITIONS PROGRAMME DE FIDÉLITÉ",
+        title: "Conditions Programme Fidélité",
+        action: "createNewActivity",
+        deepLink: 'activities/details/{{UUID}}'
+    },
     {
         title: "Historique",
         action: "navigation",
@@ -38,12 +44,7 @@ const RightMenu = [
         action: "createNewActivity",
         deepLink: 'activities/details/{{UUID}}'
     },
-    {
-        activity: "CONDITIONS PROGRAMME DE FIDÉLITÉ",
-        title: "Conditions Programme Fidélité",
-        action: "createNewActivity",
-        deepLink: 'activities/details/{{UUID}}'
-    },
+   
     
 
 
