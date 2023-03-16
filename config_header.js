@@ -33,11 +33,18 @@ const RightMenu = [
         deepLink: 'activities/details/{{UUID}}'
     },
     {
+        activity: "CONDITIONS PROGRAMME DE FIDÉLITÉ",
+        title: "Conditions Programme Fidélité",
+        action: "createNewActivity",
+        deepLink: 'activities/details/{{UUID}}'
+    },
+    {
         activity: "Nous contacter",
         title: "Nous contacter",
         action: "createNewActivity",
         deepLink: 'activities/details/{{UUID}}'
     },
+    
 
 
 ]
