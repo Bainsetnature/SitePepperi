@@ -32,10 +32,10 @@ var blocks_config = {
         statuses: ["2"],
         table: ["ActionDateTime", "InternalID"]
     },
-    'statut_account':{
+    /*'statut_account':{
         text: "Statut :",
         field: "TSAStatutEBP",
-    }
+    }*/
 }
 var Brands = [
     
