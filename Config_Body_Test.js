@@ -7,6 +7,12 @@ var blocks_config = {
         svg: "https://storage.pepperi.com/General/Icons/truck.svg"
     },
     'account_balance': {
+        text: "Statut :",
+        field: "TSAStatutEBP",
+       /* measure_unit: "Points",*/
+       /*svg:"https://storage.pepperi.com/General/Icons/balance.svg"*/
+    },
+    'account_balance': {
         text: "Points Fidélité",
         field: "TSAPointFidCompte",
        /* measure_unit: "Points",*/
