@@ -6,7 +6,7 @@ var blocks_config = {
         field: "",
         svg: "https://storage.pepperi.com/General/Icons/truck.svg"
     },
-    'account_statut': {
+    'account_balance': {
         text: "Statut :",
         field: "TSAStatutEBP",
        /* measure_unit: "Points",*/
