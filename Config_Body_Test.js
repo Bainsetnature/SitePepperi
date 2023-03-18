@@ -31,10 +31,6 @@ var blocks_config = {
         name: "Derni\u00e9re commande",
         statuses: ["2"],
         table: ["ActionDateTime", "InternalID"]
-    },
-    'statut_account':{
-        text: "Statut :",
-        field: "TSAStatutEBP",
     }
 }
 var Brands = [
