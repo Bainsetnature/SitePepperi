@@ -8,9 +8,9 @@ var blocks_config = {
     },
     'account_statut': {
         text: "Statut :",
-        field: "TSAStatutEBP"
-       /* measure_unit: "Points",
-       svg:"https://storage.pepperi.com/General/Icons/balance.svg"*/
+        field: "TSAStatutEBP",
+       measure_unit: "",
+       svg:""
     },
     'account_balance': {
         text: "Points Fidélité",
