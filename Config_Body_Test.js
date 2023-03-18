@@ -1,6 +1,10 @@
 var Transaction = 'Commande B2B';
 var Catalog = 'B2B'
 var blocks_config = {
+    'statut_account':{
+        text: "Statut :",
+        field: "TSAStatutEBP",
+    },
     'free_shipping': {
         text: "Frais de port offert \u00e0 partir de 375\u20ac HT d'achat",
         field: "",
@@ -9,8 +13,6 @@ var blocks_config = {
     'account_balance': {
         text: "Points Fidélité",
         field: "TSAPointFidCompte",
-        textstatut: "Statut :",
-        fieldstatut: "TSAStatutEBP",
        /* measure_unit: "Points",*/
         svg:"https://storage.pepperi.com/General/Icons/balance.svg"
     },
