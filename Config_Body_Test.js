@@ -1,10 +1,6 @@
 var Transaction = 'Commande B2B';
 var Catalog = 'B2B'
 var blocks_config = {
-    'statut_account':{
-        text: "Statut :",
-        field: "TSAStatutEBP",
-    },
     'free_shipping': {
         text: "Frais de port offert \u00e0 partir de 375\u20ac HT d'achat",
         field: "",
@@ -35,6 +31,10 @@ var blocks_config = {
         name: "Derni\u00e9re commande",
         statuses: ["2"],
         table: ["ActionDateTime", "InternalID"]
+    },
+    'statut_account':{
+        text: "Statut :",
+        field: "TSAStatutEBP",
     }
 }
 var Brands = [
