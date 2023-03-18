@@ -6,11 +6,11 @@ var blocks_config = {
         field: "",
         svg: "https://storage.pepperi.com/General/Icons/truck.svg"
     },
-    'account_balance': {
+    'account_statut': {
         text: "Statut :",
         field: "TSAStatutEBP",
        /* measure_unit: "Points",*/
-       /*svg:"https://storage.pepperi.com/General/Icons/balance.svg"*/
+       svg:"https://storage.pepperi.com/General/Icons/balance.svg"
     },
     'account_balance': {
         text: "Points Fidélité",
