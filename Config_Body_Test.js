@@ -4,13 +4,19 @@ var blocks_config = {
     'free_shipping': {
         text: "Frais de port offert \u00e0 partir de 375\u20ac HT d'achat",
         field: "",
-        svg: "https://storage.pepperi.com/General/Icons/truck.svg"
+        svg: "https://storage.pepperi.com/General/Icons/truck.svg"account_statut
     },
     'account_balance': {
         text: "Points Fidélité",
         field: "TSAPointFidCompte",
        /* measure_unit: "Points",*/
         svg:"https://storage.pepperi.com/General/Icons/balance.svg"
+    },
+    'account_statut': {
+        text: "Points Fidélité",
+        field: "TSAStatutEBP",
+       /* measure_unit: "Points",
+        svg:"https://storage.pepperi.com/General/Icons/balance.svg"*/
     },
     'active-order':
     {
