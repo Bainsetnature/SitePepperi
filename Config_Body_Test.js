@@ -4,7 +4,7 @@ var blocks_config = {
     'free_shipping': {
         text: "Frais de port offert \u00e0 partir de 375\u20ac HT d'achat",
         field: "",
-        svg: "https://storage.pepperi.com/General/Icons/truck.svg"account_statut
+        svg: "https://storage.pepperi.com/General/Icons/truck.svg"
     },
     'account_balance': {
         text: "Points Fidélité",
