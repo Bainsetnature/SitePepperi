@@ -14,9 +14,7 @@ var blocks_config = {
     },
     'account_statut': {
         text: "Points Fidélité",
-        field: "TSAStatutEBP",
-       /* measure_unit: "Points",
-        svg:"https://storage.pepperi.com/General/Icons/balance.svg"*/
+        field: "TSAStatutEBP"
     },
     'active-order':
     {
