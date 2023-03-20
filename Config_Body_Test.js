@@ -12,6 +12,10 @@ var blocks_config = {
        /* measure_unit: "Points",*/
         svg:"https://storage.pepperi.com/General/Icons/balance.svg"
     },
+    'account_balance': {
+        text: "Points Fidélité",
+        field: "TSAPointFidCompte"
+    },
     'active-order':
     {
         name: "Commande en cours",
