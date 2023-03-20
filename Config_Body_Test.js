@@ -13,7 +13,7 @@ var blocks_config = {
         svg:"https://storage.pepperi.com/General/Icons/balance.svg"
     },
     'account_statut': {
-        text: "Statut : ",
+        text: "Statut Client : ",
         field: "TSAStatutEBP"
     },
     'active-order':
