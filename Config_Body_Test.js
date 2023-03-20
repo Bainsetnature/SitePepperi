@@ -12,10 +12,6 @@ var blocks_config = {
        /* measure_unit: "Points",*/
         svg:"https://storage.pepperi.com/General/Icons/balance.svg"
     },
-    'account_statut': {
-        text: "Statut :",
-        field: "TSAStatutEBP"
-    },
     'active-order':
     {
         name: "Commande en cours",
