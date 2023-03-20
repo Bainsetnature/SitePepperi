@@ -14,7 +14,7 @@ var blocks_config = {
     },
     'account_statut': {
         text: "Statut : ",
-        field: "TSAPointFidCompte"
+        field: "TSAStatutEBP"
     },
     'active-order':
     {
