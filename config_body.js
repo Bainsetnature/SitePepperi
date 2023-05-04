@@ -46,7 +46,7 @@ var Promotions = [
     {
         title: "Soins Corps",
         buttonText: "Cliquez ici",
-        link: 'transactions/scope_items/{{UUID}}?CurrentTab=%22%7B%5C%22JsonFilter%5C%22:%5C%225332e389-e1f9-421e-bc33-689bdfbca16c%5C%22,%5C%22Parent%5C%22:%5C%22%7B%5C%5C%5C%22JsonFilter%5C%5C%5C%22:%5C%5C%5C%2299207e51-47b5-4f30-8271-c364a6882050%5C%5C%5C%22%7D%5C%22%7D%22&StartIndex=0&SearchString=&SearchAll=false',
+        link: 'transactions/scope_items/{{UUID}}?CurrentTab="%7B%5C"JsonFilter%5C":%5C"8e38e6d8-753e-4da4-b645-6eee2f498be1%5C",%5C"Parent%5C":%5C"%7B%5C%5C%5C"JsonFilter%5C%5C%5C":%5C%5C%5C"99207e51-47b5-4f30-8271-c364a6882050%5C%5C%5C"%7D%5C"%7D"&StartIndex=0&SearchString=&SearchAll=false',
         image: 'https://bainsetnature.github.io/SitePepperi/COFFRET MOANA.png'
     }
     ]
