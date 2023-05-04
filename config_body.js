@@ -54,7 +54,7 @@ var Promotions2 = [
     {
         title: "Parfums Maison",
         buttonText: "Cliquez ici",
-        link: 'transactions/scope_items/{{UUID}}?CurrentTab="%7B%5C"JsonFilter%5C":%5C"18d7976d-11b2-44ea-9a4f-c3c649e98ad1%5C",%5C"Parent%5C":%5C"%7B%5C%5C%5C"JsonFilter%5C%5C%5C":%5C%5C%5C"99207e51-47b5-4f30-8271-c364a6882050%5C%5C%5C"%7D%5C"%7D"&StartIndex=0&SearchString=&SearchAll=false',
+        link: 'transactions/scope_items/{{UUID}}?CurrentTab="%7B%5C"JsonFilter%5C":%5C"18d7976d-11b2-44ea-9a4f-c3c649e98ad1%5C",%5C"Parent%5C":%5C"%7B%5C%5C%5C"JsonFilter%5C%5C%5C":%5C%5C%5C"1fed1213-9371-4267-8e07-c83c56b057e1%5C%5C%5C"%7D%5C"%7D"&StartIndex=0&SearchString=&SearchAll=false',
         image: 'https://bainsetnature.github.io/SitePepperi/delirium floral home.png'
     }
     ]
