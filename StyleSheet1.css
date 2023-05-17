@@ -1340,6 +1340,10 @@ button {
     .hidden-on-web {
         display: none !important;
     }
+    .button-weak {
+        display: flex !important;
+        font-size: 0.75rem;
+    }
 }
 
 #launcher {
