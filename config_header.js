@@ -18,7 +18,7 @@ const RightMenu = [
         catalog: "Point Fidelite",
         transaction: "Commande Fidelite",
         title: "Commande Produits fidélité",
-        action: "navigation",
+        action: "createNewTransaction",
         deepLink: '/Transactions/scope_items/{{UUID}}'
     },
      {
